@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE16DC41-75A1-4656-867F-10B0BD982932</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FaceRecognitionDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B0D8233FDD5EA252400A6B17061806554063543C</key>
+		<string>https://github.com/RedGemini1988/FaceRecognizerGitHub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FaceRecognitionDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B0D8233FDD5EA252400A6B17061806554063543C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RedGemini1988/FaceRecognizerGitHub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B0D8233FDD5EA252400A6B17061806554063543C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B0D8233FDD5EA252400A6B17061806554063543C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FaceRecognizerGitHub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
